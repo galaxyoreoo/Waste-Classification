@@ -1,0 +1,13 @@
+path: c:\Users\Lingga\PU\sem. 6\Computer Vision\Group\Organic-&-Inorganic-Detection-1
+train: images/train
+val: images/val
+names:
+  0: Battery -B3-
+  1: Bugs Spray -B3-
+  2: Dry Leave -Organic-
+  3: Fruit Waste -Organic-
+  4: Glass -Inorganic-
+  5: Paper -Inorganic-
+  6: Plastic Bag -Inorganic-
+  7: Plastic Bottle -Inorganic-
+  8: Tin -Inorganic-
